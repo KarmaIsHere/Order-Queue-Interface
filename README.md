@@ -7,15 +7,10 @@ To get a sent order file you need to exit the program properly via the meniu. On
 
 Order example:
 
-  Name: John
-  
-  Surname: Smith
-  
-  Items: 1xTool kit
-  
-  Order ID: 13
-  
-  Address: USA, New York
-  
-  Order Status: Not packed
+  Name: John   
+  Surname: Smith   
+  Items: 1xTool kit  
+  Order ID: 13  
+  Address: USA, New York  
+  Order Status: Not packed  
   
